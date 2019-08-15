@@ -5,7 +5,6 @@
   <url>
     <loc>http://www.yunta.nl/categories/</loc>
     <lastmod>2016-10-02T22:55:05-04:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -14,27 +13,23 @@
   </url>
   
   <url>
-    <loc>http://www.yunta.nl/tags/</loc>
+    <loc>http://www.yunta.nl/tags/projects/</loc>
     <lastmod>2016-10-02T22:55:05-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.yunta.nl/</loc>
-    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://www.yunta.nl/categories/projects/</loc>
     <lastmod>2016-10-02T22:55:05-04:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.yunta.nl/tags/projects/</loc>
+    <loc>http://www.yunta.nl/tags/</loc>
     <lastmod>2016-10-02T22:55:05-04:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.yunta.nl/</loc>
+    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
   </url>
   
 </urlset>
